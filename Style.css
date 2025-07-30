@@ -24,6 +24,12 @@ border-radius: 8px;
 overflow: hidden;
 box-shadow: 0px 2px 4px rgba(0,0,0,0.2)
 }
+#he
+{ 
+	height: 100%;
+	width: 300px;
+	padding-left: 20px;
+	border-radius:10px;
 #pho
 
 {
